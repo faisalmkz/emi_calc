@@ -7,7 +7,7 @@ Instructions on how to install and set up the project locally. This can include 
 
 ### 1. Clone the repository 
 ```
-git clone https://github.com/iamrevathy/emi_process.git
+git clone https://github.com/faisalmkz/emi_calc.git
 ```
 ### 2. Install dependencies
 ```
